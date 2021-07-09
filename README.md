@@ -7,6 +7,8 @@ In this project i try to show how can an application connect with a database usi
 
 With this Application; I can add, delete Students and Books to my Database and also update their information on my Database. I can select a student and take Information about that Books that these Student has borrowed.
 
+As a Project Management Tool i used Maven.
+
 #Technologies
 
 1.Frontend
