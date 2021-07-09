@@ -3,7 +3,7 @@ Spring MVC and Hibernate Project with using Maven
 
 #Introduction
 
-In this project i try to show that how can connect an application with a database using Hibernate and Spring MVC frameworks. I have two tables --- student and Book_List --- and they are connected with eachother using a join table. To do that i use Entity Relationship Model(ER Modeling) ER Model is an approach in order to design the Database and defines the Relationship of Data with eachother. In this Project is MySQL used as backend
+In this project i try to show how can connect an application with a database using Hibernate and Spring MVC frameworks. I have two tables --- student and Book_List --- and they are connected with eachother using a join table. To do that i use Entity Relationship Model(ER Modeling) ER Model is an approach in order to design the Database and defines the Relationship of Data with eachother. In this Project is MySQL used as backend
 
 With this Application; I can add, delete Students and Books to my Database and also update their information on my Database. I can select a student and take Information about that Books that these Student has borrowed.
 
